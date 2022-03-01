@@ -48,7 +48,8 @@ Technologies used to develop this project:
 - Run tests with `npm run test` or `yarn test`
 
 ## 🖥 Preview
-https://user-images.githubusercontent.com/49074930/147984154-99a8f1ed-b7dd-4a42-9318-56a67ed0e3d6.mp4
+
+https://user-images.githubusercontent.com/49074930/156076055-32ebefdb-1fea-49e5-89b8-b0a0bc611353.mp4
 
 ## 🤔 How to contribute
 
