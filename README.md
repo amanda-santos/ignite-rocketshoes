@@ -43,7 +43,8 @@ Technologies used to develop this project:
 ## ⌨ Getting started
 
 - Run `npm i` or `yarn` to install the dependencies
-- Run the development server with `npm run dev` or `yarn dev`
+- Run the development server with `npm run server` or `yarn server`
+- Run the front-end with `npm start` or `yarn start`
 - Run tests with `npm run test` or `yarn test`
 
 ## 🖥 Preview
